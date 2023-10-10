@@ -1,0 +1,55 @@
+/* for headers */
+header{
+    height: 8vh;
+    line-height: 8vh;
+}
+
+.logo h1{
+    font-size: 25px;
+    letter-spacing: .7rem;
+    cursor: pointer;
+}
+
+.logo h1 span{
+    color: hsla(89, 100%, 66%, 1);
+}
+
+
+
+.toggle{
+    font-size: 25px;
+    color: hsla(89, 100%, 66%, 1);
+    background: none;
+    outline: none;
+    border: none;
+    cursor: pointer;
+}
+
+
+.links_nav{
+    display: none;
+}
+
+.link_navSideBar{
+    position: absolute;
+    background-color: hsla(89, 100%, 66%, 1);
+    display: block;
+    top: 60px;
+    left: 0;
+    transition: 0.5s;
+    width: 100%;
+    height: 100vh;
+    z-index: 5;
+    margin-bottom: 30px;
+    padding-left: 5%;
+}
+
+header ul li{
+    margin-bottom: 30px;
+}
+
+header ul li a{
+    color: hsla(0, 0%, 18%, 1);
+    font-weight: 600;
+}
+/* for headers */
