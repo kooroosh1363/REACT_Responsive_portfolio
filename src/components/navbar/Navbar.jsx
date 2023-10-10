@@ -18,7 +18,7 @@ const Navbar = () => {
 
                     <nav>
                         <button className='toggle' onClick={() => setSideBar(!sideBar)}>
-                            {sideBar ? <FaBars></FaBars> : <FiX></FiX>}
+                            {sideBar ? <FiX></FiX> : <FaBars></FaBars>}
                         </button>
 
                         <ul className={sideBar ? "link_navSideBar" : "links_nav"} onClick={() => setSideBar(false)}>
