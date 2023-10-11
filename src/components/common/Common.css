@@ -1,0 +1,26 @@
+.headingSide{
+    height: 85vh;
+    background-color: hsla(0, 0%, 13%, 1);
+    width: 150px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+
+.headingSide h1{
+    position: absolute;
+    top: 42%;
+    left: -60px;
+    margin: auto;
+    font-size: 38px;
+    transform: rotate(-90deg);
+    font-weight: 600;
+}
+
+.minus{
+    color: hsla(147, 73%, 43%, 1);
+    font-size: 30px;
+    margin-right: 20px;
+
+}
