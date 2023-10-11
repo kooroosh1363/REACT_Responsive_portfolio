@@ -3,22 +3,22 @@ export const dataHome = [
     id: 1,
     name: "Lorem ipsum dolor sit amet.",
     desc: "Lorem ipsum dolor sit amet consectetur adipisicing elit. Necessitatibus repellat officiis consequatur, assumenda numquam eius sint officia enim distinctio quibusdam!",
-    cover: "../public/images/slide1.png",
-    image: "../public/images/sign.png",
+    image: "https://kinsta.com/wp-content/uploads/2020/08/tiger-jpg.jpg",
+    cover: "https://www.lunapic.com/editor/premade/transparent-signature.gif",
   },
   {
     id: 2,
     name: "Lorem ipsum dolor sit amet.",
     desc: "Lorem ipsum dolor sit amet consectetur adipisicing elit. Necessitatibus repellat officiis consequatur, assumenda numquam eius sint officia enim distinctio quibusdam!",
-    cover: "../public/images/slide2.png",
-    image: "../public/images/sign.png",
+    image: "https://kinsta.com/wp-content/uploads/2020/08/tiger-jpg.jpg",
+    cover: "https://www.lunapic.com/editor/premade/transparent-signature.gif",
   },
   {
     id: 3,
     name: "Lorem ipsum dolor sit amet.",
     desc: "Lorem ipsum dolor sit amet consectetur adipisicing elit. Necessitatibus repellat officiis consequatur, assumenda numquam eius sint officia enim distinctio quibusdam!",
-    cover: "../public/images/slide3.png",
-    image: "../public/images/sign.png",
+    image: "https://kinsta.com/wp-content/uploads/2020/08/tiger-jpg.jpg",
+    cover: "https://www.lunapic.com/editor/premade/transparent-signature.gif",
   },
 ]
 export const about = [
