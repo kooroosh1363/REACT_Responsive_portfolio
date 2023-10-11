@@ -3,7 +3,8 @@ import "./Home.css";
 import Slider from "react-slick";
 import "slick-carousel/slick/slick.css";
 import "slick-carousel/slick/slick-theme.css";
-import {dataHome}  from '../../allData';
+import { dataHome } from '../../allData';
+// import {covers} from "../../../public/images/sign.png"
 
 
 
@@ -27,11 +28,16 @@ const Home = () => {
                             const { name, desc, cover, image } = val
                             return (
                                 <>
-                                    <div className="contentItem bs_flex">
+                                    <div className="contentItem bsFlex">
                                         <div className="left">
                                             <h1>{name}</h1>
-                                            <p></p>
-                                            <span></span>
+                                            <p>{desc}</p>
+                                            <img src={cover} alt="sign" />
+                                        </div>
+
+                                        <div className="right">
+                                            <img src={image} alt="aks" />
+
                                         </div>
                                     </div>
                                 </>
