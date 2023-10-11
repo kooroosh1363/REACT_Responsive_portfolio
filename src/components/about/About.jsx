@@ -9,7 +9,7 @@ const About = () => {
             <section className='about'>
                 <div className="container">
                     <div className="contentItem">
-                        <Common title = "About Me"/>
+                        <Common title="About Me" />
                         {about.map((data) => {
                             const { name, email, phone, fax, dob, nation, heading, title, desc } = data
                             return (
@@ -56,17 +56,19 @@ const About = () => {
                                                 DOWNLOAD RESUME
                                             </button>
                                         </div>
-                                    </div>
-                                    <div className="rightContent">
-                                        <div className="heading">
-                                            <h1>{heading}</h1>
+
+                                        <div className="rightContent">
+                                            <div className="heading">
+                                                <h1>{heading}</h1>
+                                            </div>
+                                            <div className="title">
+                                                <span>Hello</span>
+                                                <h3>{title}</h3>
+                                                <p>{desc}</p>
+                                            </div>
                                         </div>
-                                        <div className="title">
-                                            <span>Hello</span>
-                                            <h3>{title}</h3>
-                                            <p>{desc}</p>
-                                        </div>
                                     </div>
+
                                 </>
                             )
                         })}
