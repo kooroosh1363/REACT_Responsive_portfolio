@@ -1,6 +1,6 @@
 .headingSide{
-    height: 85vh;
-    background-color: hsla(0, 0%, 13%, 1);
+    height: 90vh;
+    background-color: rgb(81, 79, 79);
     width: 150px;
     display: flex;
     justify-content: center;
@@ -11,7 +11,7 @@
 .headingSide h1{
     position: absolute;
     top: 42%;
-    left: -60px;
+    left: -30px;
     margin: auto;
     font-size: 38px;
     transform: rotate(-90deg);
