@@ -1,0 +1,11 @@
+
+
+
+.create .contentItem{
+    /* padding: 20px; */
+    margin: 40px 0;
+    height: 95vh;
+    border: 20px solid hsla(0, 0%, 18%, 1);
+    position: relative;
+    display: flex;
+}
