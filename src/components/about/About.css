@@ -3,11 +3,12 @@
 }
 
 .about .contentItem{
-    padding: 20px;
+    /* padding: 20px; */
     margin: 40px 0;
     height: 95vh;
     border: 20px solid hsla(0, 0%, 18%, 1);
     position: relative;
+    display: flex;
 }
 
 
@@ -20,6 +21,10 @@
     width: 30vw;
     padding: 0 50px;
     position: relative;
+}
+
+.about .leftContent{
+    padding-top: 15%;
 }
 
 .about h2{
@@ -54,45 +59,51 @@
     content: "";
     position: absolute;
     top: 0;
+    left: 30;
+    width: 100%;
+    height: 100%;
+    background-image: url(../../../public/images/slide1.png);
+    background-size: cover;
+    z-index: -1;
     
 }
 
-
-
-
-/* .about .left{
-    width: 30%;
-    margin-left: 5%;
-}
-
-.about .left img{
-    width: 30%;
-}
-
-
-.about .right{
-    position: absolute;
-    top: 0;
-    left: 0;
-    z-index: -1000;
-}
-.about .right img{
-    width: 100%;
-    height: 100%;
-    object-fit: cover;
-}
-
-.about h1{
+.about .heading h1{
     font-size: 50px;
-    word-wrap: break-word;
-    margin: 30px 0;
-    line-height: 60px;
-    letter-spacing: 2px;
-    color: aliceblue;
+    text-align: center;
+    padding: 40px 0;
+    word-spacing: 5px;
+    background-color: rgb(30, 31, 31);
+    color: hsla(0, 0%, 41%, 1);
 }
 
-.about p{
+.about .rightContent{
+    padding: 0px 0px 10px 10px;
+    margin: 0px 0px 0px 0px;
+    position: absolute;
+    right: 0;
+    top: 0;
+    width: 35%;
+    height: 100vh;
+    object-fit: contain;
+}
+
+.about .title{
+    background-color: hsla(0, 0%, 41%, 1);
+    padding: 54px;
+}
+
+.about .title h3{
+    margin: 30px 0;
     font-size: 20px;
-    line-height: 35px;
-    color: aliceblue;
-} */
+    font-weight: 700;
+}
+
+p{
+    font-size: 17px;
+    line-height: 30px;
+}
+
+
+
+
