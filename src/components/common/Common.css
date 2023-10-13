@@ -5,13 +5,14 @@
     display: flex;
     justify-content: center;
     align-items: center;
+    
 }
 
 
 .headingSide h1{
     position: absolute;
     top: 42%;
-    left: -30px;
+    left: -50px;
     margin: auto;
     font-size: 38px;
     transform: rotate(-90deg);

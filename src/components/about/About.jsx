@@ -2,6 +2,7 @@ import React from 'react'
 import { about } from '../../allData';
 import "./About.css"
 import Common from '../common/Common';
+import { FaArrowRight } from "react-icons/fa";
 
 const About = () => {
     return (
@@ -53,7 +54,7 @@ const About = () => {
                                                 <h2>{nation}</h2>
                                             </div>
                                             <button className='btn_init'>
-                                                DOWNLOAD RESUME
+                                                DOWNLOAD RESUME <FaArrowRight className='arrowRight'/>
                                             </button>
                                         </div>
 

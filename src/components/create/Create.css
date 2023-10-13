@@ -1,4 +1,8 @@
 
+.create{
+    position: relative;
+}
+
 
 
 .create .contentItem{
@@ -8,4 +12,47 @@
     border: 20px solid hsla(0, 0%, 18%, 1);
     position: relative;
     display: flex;
+}
+
+.create .flex{
+    display: flex;
+}
+
+/* .create .leftContent{
+    padding-top: 15%;
+} */
+
+.create .rightContent{
+    padding: 0;
+}
+
+.create img{
+    width: 100%;
+    height: 100%;
+    object-fit: cover;
+}
+
+.create .quote{
+    font-size: 50px;
+    color: hsla(147, 73%, 25%, 1);
+    margin: 20px 0;
+}
+
+.create .content h1 {
+    font-size: 30px;
+    font-weight: 600;
+}
+
+
+.create .content h3 {
+    font-size: 20px;
+    font-weight: 900;
+    color: hsla(147, 73%, 25%, 1);
+    margin: 40px 0 20px 0;
+}
+
+.create .btn_init .arrowRight{
+    margin-left: 10px;
+    padding-top: 6px;
+    font-size: 17px;
 }

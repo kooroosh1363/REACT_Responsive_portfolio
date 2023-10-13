@@ -40,7 +40,7 @@ export const creative = [
     heading: "Lorem ipsum dolor sit, amet consectetur adipisicing elit. Veritatis, ea.",
     title: "Lorem, ipsum.",
     desc: "Lorem ipsum dolor sit amet consectetur adipisicing elit. Necessitatibus repellat officiis consequatur, assumenda numquam eius sint officia enim distinctio quibusdam!",
-    cover: "./images/skills-bg.jpg",
+    cover: "https://w7.pngwing.com/pngs/366/145/png-transparent-cartoon-drawing-animation-animation-hand-cartoon-fictional-character.png",
   },
 ]
 
