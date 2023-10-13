@@ -22,7 +22,7 @@ const Create = () => {
                                         <p>{val.desc}</p>
 
                                         <button className='btn_init'>
-                                            Download Resume <FaArrowRight/>
+                                            Download Resume <FaArrowRight className='arrowRight'/>
                                         </button>
                                     </div>
 

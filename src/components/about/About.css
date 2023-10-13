@@ -52,6 +52,9 @@
     border-radius: 15px;
     color: hsla(147, 73%, 97%, 1);
     margin-top: 30px;
+    cursor: pointer;
+    /* display: flex;
+    align-items: center; */
 }
 
 
@@ -59,7 +62,7 @@
     content: "";
     position: absolute;
     top: 0;
-    left: 30;
+    left: 150;
     width: 100%;
     height: 100%;
     background-image: url(../../../public/images/slide1.png);
