@@ -1,10 +1,20 @@
 import React from 'react'
+import Common from '../common/Common'
+
 
 const Education = () => {
   return (
-    <div>
-      <h1>education</h1>
-    </div>
+    <>
+      <section className='education create'>
+        <div className="container">
+          <div className="contentItem">
+            <Common title="Education" />
+            
+          </div>
+        </div>
+      </section>
+
+    </>
   )
 }
 
