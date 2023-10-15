@@ -50,24 +50,32 @@ export const education = [
     name: "Lorem, ipsum.",
     program: "Bachelor of Arts",
     year: "2012 - 2013",
+    cover: "https://w7.pngwing.com/pngs/366/145/png-transparent-cartoon-drawing-animation-animation-hand-cartoon-fictional-character.png",
+
   },
   {
     id: "02",
     name: "Lorem, ipsum.",
     program: "Lorem, ipsum.",
     year: "2011 - 2012",
+    cover: "https://w7.pngwing.com/pngs/366/145/png-transparent-cartoon-drawing-animation-animation-hand-cartoon-fictional-character.png",
+
   },
   {
     id: "03",
     name: "Lorem, ipsum.",
     program: "Lorem, ipsum.",
     year: "2009 - 2011",
+    cover: "https://w7.pngwing.com/pngs/366/145/png-transparent-cartoon-drawing-animation-animation-hand-cartoon-fictional-character.png",
+
   },
   {
     id: "04",
     name: "Lorem, ipsum.",
     program: "Lorem, ipsum.",
     year: "2007 - 2009",
+    cover: "https://w7.pngwing.com/pngs/366/145/png-transparent-cartoon-drawing-animation-animation-hand-cartoon-fictional-character.png",
+
   },
 ]
 export const work = [
