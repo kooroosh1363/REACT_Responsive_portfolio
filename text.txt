@@ -1,0 +1,8 @@
+{/* < BsQuote className = 'quote' ></ >
+                      <h1>{val.heading}</h1>
+                      <h3>{val.title}</h3>
+                      <p>{val.desc}</p>
+
+                      <button className='btn_init'>
+                        Download Resume <FaArrowRight className='arrowRight' />
+                      </button> */}
