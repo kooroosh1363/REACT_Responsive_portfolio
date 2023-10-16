@@ -1,3 +1,22 @@
-.work{
-    
+.work .box{
+    margin-top: 12px;
+}
+
+.work button{
+ width: 250px;
+ height: 30px;
+ margin: 0;
+ padding: 0 0;
+}
+
+
+.work.education h2{
+    font-size: 20px;
+    font-weight: 600;
+    margin-left: 20px;
+}
+
+.work h2 p{
+    font-size: 15px;
+    font-weight: 500;
 }

@@ -81,22 +81,22 @@ export const education = [
 export const work = [
   {
     years: "2016 - 2013",
-    compnay: "Panara Media  -  Art Director",
+    company: "Panara Media  -  Art Director",
     desc: "Execute all visual design stages from concept to final hand-off to engineering.",
   },
   {
     years: "2013 - 2012",
-    compnay: "LinkSture Web  -  Project Manager",
+    company: "LinkSture Web  -  Project Manager",
     desc: "Established UX design as the first stage of Web and mobile app developments.",
   },
   {
     years: "2012 - 2011",
-    compnay: "Matrix Media  -  Visual / UI Designer",
+    company: "Matrix Media  -  Visual / UI Designer",
     desc: "Led UX design on many mobile applications that redefined the market landscape.",
   },
   {
     years: "2011 - 2010",
-    compnay: "Creatika Agency  -  Graphic Designer",
+    company: "Creatika Agency  -  Graphic Designer",
     desc: "Researched, strategized and launched best UX improvements for nonprofit sites.",
   },
 ]
