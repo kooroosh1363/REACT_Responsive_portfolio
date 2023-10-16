@@ -1,0 +1,19 @@
+.education .box {
+    margin-top: 20px;
+}
+
+.education .content h1 {
+    font-size: 40px;
+    color: hsla(147, 73%, 25%, 1);
+    margin-right: 30px;
+}
+
+
+.education .content h2{
+    font-size: 18px;
+    font-weight: 900;
+}
+
+.education .leftContent{
+    padding: 80px 50px;
+}
