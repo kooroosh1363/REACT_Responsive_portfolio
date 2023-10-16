@@ -6,3 +6,21 @@
                       <button className='btn_init'>
                         Download Resume <FaArrowRight className='arrowRight' />
                       </button> */}
+
+                     
+
+
+
+
+
+
+                 <div className="rightContent">
+                <img src={image} alt="" />
+              </div>
+
+              <div className="leftContent">
+                <p>Lorem, ipsum dolor sit amet consectetur adipisicing elit. Neque molestias impedit, repellendus minima veniam dolore illo est ullam laborum eligendi.</p>
+
+                
+
+              </div>
