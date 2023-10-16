@@ -4,6 +4,7 @@ import { education } from '../../allData';
 // import { BsQuote } from "react-icons/bs";
 // import { FaArrowRight } from "react-icons/fa";
 import image from "../../images/slide1.png"
+import "./Education.css"
 
 const Education = () => {
   return (
