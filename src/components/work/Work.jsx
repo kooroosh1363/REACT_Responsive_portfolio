@@ -22,7 +22,7 @@ const Work = () => {
                                                     {val.years}
                                                 </button>
 
-                                                <h2>
+                                                <h2 className='company'>
                                                     {val.company}
                                                     <p>{val.desc}</p>
                                                 </h2>
