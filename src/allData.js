@@ -103,7 +103,7 @@ export const work = [
 export const portfolio = [
   {
     id: 1,
-    cover: "./images/portfolio/port1.jpg",
+    cover: "https://w7.pngwing.com/pngs/366/145/png-transparent-cartoon-drawing-animation-animation-hand-cartoon-fictional-character.png",
     title: "Other portfolio I've Designed.",
     desc: "Created strong design concepts and developed design layouts for a variety of creative projects using Photoshop and Illustrator, you can see more at my portfolio.",
     p1: "Design is not just what it looks like and feels like.",
@@ -114,7 +114,7 @@ export const portfolio = [
   },
   {
     id: 2,
-    cover: "./images/portfolio/port2.jpg",
+    cover: "https://w7.pngwing.com/pngs/366/145/png-transparent-cartoon-drawing-animation-animation-hand-cartoon-fictional-character.png",
     title: "Spinnerei Wannweil",
     desc: "Lorem Ipsum has been the industry standard dummy text since the when an unknown printer took a galley of type and scrambled it  make a type specimen book. It has survived  only five centuries .",
     p1: "Display as many or as little images as you wish using.",
@@ -125,7 +125,7 @@ export const portfolio = [
   },
   {
     id: 3,
-    cover: "./images/portfolio/port3.jpg",
+    cover: "https://w7.pngwing.com/pngs/366/145/png-transparent-cartoon-drawing-animation-animation-hand-cartoon-fictional-character.png",
     title: "Shift Management",
     desc: "Lorem Ipsum has been the industry standard dummy text since the when an unknown printer took a galley of type and scrambled it  make a type specimen book. It has survived  only five centuries, but also the leap electronic typesetting, remaining essentially unchanged.",
     p1: "Display as many or as little images as you wish using.",
@@ -136,7 +136,7 @@ export const portfolio = [
   },
   {
     id: 4,
-    cover: "./images/portfolio/port4.jpg",
+    cover: "https://w7.pngwing.com/pngs/366/145/png-transparent-cartoon-drawing-animation-animation-hand-cartoon-fictional-character.png",
     title: "Mahl Cafe",
     desc: "Lorem Ipsum has been the industry standard dummy text since the when an unknown printer took a galley of type and scrambled it  make a type specimen book. It has survived  only five centuries, but also the leap electronic typesetting, remaining essentially unchanged.",
     p1: "Display as many or as little images as you wish using.",
