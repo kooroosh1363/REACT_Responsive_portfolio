@@ -1,0 +1,31 @@
+.portfolio{
+    position: relative;
+}
+
+.portfolio h1{
+    font-size: 20px;
+    margin: 30px 0;
+}
+
+.portfolio p{
+    margin-bottom: 20px;
+}
+
+.portfolio ul li{
+    margin: 15px 0;
+}
+
+
+.faMinus{
+    color: hsla(147, 73%, 43%, 1);
+    margin-right: 20px;
+    font-size: 17px;
+    font-weight: 900;
+}
+
+
+.portfolio .headingSide h1{
+    left: -40px;
+    font-size: 40px;
+    font-weight: 900;
+}

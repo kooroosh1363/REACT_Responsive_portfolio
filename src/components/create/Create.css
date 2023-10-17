@@ -56,3 +56,9 @@
     padding-top: 6px;
     font-size: 17px;
 }
+
+.create .headingSide h1{
+    left: -20px;
+    font-size: 40px;
+    font-weight: 900;
+}
