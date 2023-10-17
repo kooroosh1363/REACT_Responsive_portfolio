@@ -42,23 +42,23 @@ const Portfolio = () => {
 
                       <ul>
                         <li>
-                          <FaMinus />{val.p1}
+                          <FaMinus className='faMinus' />{val.p1}
                         </li>
 
                         <li>
-                          <FaMinus />{val.p2}
+                          <FaMinus className='faMinus' />{val.p2}
                         </li>
 
                         <li>
-                          <FaMinus />{val.p3}
+                          <FaMinus className='faMinus' />{val.p3}
                         </li>
 
                         <li>
-                          <FaMinus />{val.p4}
+                          <FaMinus className='faMinus' />{val.p4}
                         </li>
 
                         <li>
-                          <FaMinus />{val.p5}
+                          <FaMinus className='faMinus' />{val.p5}
                         </li>
                       </ul>
 
