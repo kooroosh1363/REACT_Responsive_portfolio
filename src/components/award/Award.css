@@ -1,0 +1,24 @@
+.award .content h1{
+    font-size: 50px;
+    line-height: 50px;
+    margin: 25px 0;
+}
+
+.award .box{
+    display: grid;
+    grid-template-columns: repeat(2, 1fr);
+    grid-gap:50px;
+    margin-top: 50px;
+}
+
+.award .box .img{
+    width: auto;
+    height: auto;
+    object-fit: contain;
+}
+
+.award .rightContent img{
+    width: 100%;
+    height: 100%;
+    object-fit: contain;
+}
