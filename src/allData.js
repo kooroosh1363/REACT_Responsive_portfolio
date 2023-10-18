@@ -167,21 +167,21 @@ export const award = [
 ];
 export const blog = [
   {
-    cover: "./images/blog-1.jpg",
+    cover: "https://colmanandcompany.com/blog/wp-content/uploads/2014/04/blog-word-cloud1.jpg",
   },
   {
-    cover: "./images/blog-2.jpg",
+    cover: "https://colmanandcompany.com/blog/wp-content/uploads/2014/04/blog-word-cloud1.jpg",
   },
   {
-    cover: "./images/blog-3.jpg",
+    cover: "https://colmanandcompany.com/blog/wp-content/uploads/2014/04/blog-word-cloud1.jpg",
   },
   {
-    cover: "./images/blog-4.jpg",
+    cover: "https://colmanandcompany.com/blog/wp-content/uploads/2014/04/blog-word-cloud1.jpg",
   },
   {
-    cover: "./images/blog-5.jpg",
+    cover: "https://colmanandcompany.com/blog/wp-content/uploads/2014/04/blog-word-cloud1.jpg",
   },
   {
-    cover: "./images/blog-6.jpg",
+    cover: "https://colmanandcompany.com/blog/wp-content/uploads/2014/04/blog-word-cloud1.jpg",
   },
 ];
