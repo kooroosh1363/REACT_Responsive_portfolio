@@ -1,0 +1,26 @@
+.blog{
+    position: relative;
+}
+
+.blog .box{
+    display: grid;
+    grid-template-columns: repeat(3, 1fr);
+    grid-gap:30px;
+    width: 70%;
+    margin: auto;
+}
+
+.blog .box .img {
+    width: 100%;
+    height: 100%;
+    object-fit: cover;
+    cursor: pointer;
+    
+}
+
+
+.blog .headingSide h1{
+    left: -5px !important;
+    font-size: 40px;
+    font-weight: 900;
+}
