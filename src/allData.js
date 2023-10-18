@@ -20,7 +20,7 @@ export const dataHome = [
     image: "https://kinsta.com/wp-content/uploads/2020/08/tiger-jpg.jpg",
     cover: "https://www.lunapic.com/editor/premade/transparent-signature.gif",
   },
-]
+];
 export const about = [
   {
     name: "Beckham Roy",
@@ -30,19 +30,22 @@ export const about = [
     dob: "23 February 1986",
     nation: "United States",
     heading: "Short History",
-    title: "Lorem ipsum dolor sit amet consectetur adipisicing elit. Necessitatibus repellat officiis consequatur, assumenda numquam eius sint officia enim distinctio quibusdam!",
+    title:
+      "Lorem ipsum dolor sit amet consectetur adipisicing elit. Necessitatibus repellat officiis consequatur, assumenda numquam eius sint officia enim distinctio quibusdam!",
     desc: "Lorem ipsum dolor sit amet consectetur adipisicing elit. Doloremque adipisci culpa possimus assumenda dolores veniam vitae eius molestiae ipsum, nemo sed iure recusandae ratione consequatur rerum maiores omnis illo soluta.",
   },
-]
+];
 
 export const creative = [
   {
-    heading: "Lorem ipsum dolor sit, amet consectetur adipisicing elit. Veritatis, ea.",
+    heading:
+      "Lorem ipsum dolor sit, amet consectetur adipisicing elit. Veritatis, ea.",
     title: "Lorem, ipsum.",
     desc: "Lorem ipsum dolor sit amet consectetur adipisicing elit. Necessitatibus repellat officiis consequatur, assumenda numquam eius sint officia enim distinctio quibusdam!",
-    cover: "https://w7.pngwing.com/pngs/366/145/png-transparent-cartoon-drawing-animation-animation-hand-cartoon-fictional-character.png",
+    cover:
+      "https://w7.pngwing.com/pngs/366/145/png-transparent-cartoon-drawing-animation-animation-hand-cartoon-fictional-character.png",
   },
-]
+];
 
 export const education = [
   {
@@ -50,34 +53,34 @@ export const education = [
     name: "Lorem, ipsum.",
     program: "Bachelor of Arts",
     year: "2012 - 2013",
-    cover: "https://w7.pngwing.com/pngs/366/145/png-transparent-cartoon-drawing-animation-animation-hand-cartoon-fictional-character.png",
-
+    cover:
+      "https://w7.pngwing.com/pngs/366/145/png-transparent-cartoon-drawing-animation-animation-hand-cartoon-fictional-character.png",
   },
   {
     id: "02",
     name: "Lorem, ipsum.",
     program: "Lorem, ipsum.",
     year: "2011 - 2012",
-    cover: "https://w7.pngwing.com/pngs/366/145/png-transparent-cartoon-drawing-animation-animation-hand-cartoon-fictional-character.png",
-
+    cover:
+      "https://w7.pngwing.com/pngs/366/145/png-transparent-cartoon-drawing-animation-animation-hand-cartoon-fictional-character.png",
   },
   {
     id: "03",
     name: "Lorem, ipsum.",
     program: "Lorem, ipsum.",
     year: "2009 - 2011",
-    cover: "https://w7.pngwing.com/pngs/366/145/png-transparent-cartoon-drawing-animation-animation-hand-cartoon-fictional-character.png",
-
+    cover:
+      "https://w7.pngwing.com/pngs/366/145/png-transparent-cartoon-drawing-animation-animation-hand-cartoon-fictional-character.png",
   },
   {
     id: "04",
     name: "Lorem, ipsum.",
     program: "Lorem, ipsum.",
     year: "2007 - 2009",
-    cover: "https://w7.pngwing.com/pngs/366/145/png-transparent-cartoon-drawing-animation-animation-hand-cartoon-fictional-character.png",
-
+    cover:
+      "https://w7.pngwing.com/pngs/366/145/png-transparent-cartoon-drawing-animation-animation-hand-cartoon-fictional-character.png",
   },
-]
+];
 export const work = [
   {
     years: "2016 - 2013",
@@ -99,11 +102,12 @@ export const work = [
     company: "Creatika Agency  -  Graphic Designer",
     desc: "Researched, strategized and launched best UX improvements for nonprofit sites.",
   },
-]
+];
 export const portfolio = [
   {
     id: 1,
-    cover: "https://w7.pngwing.com/pngs/366/145/png-transparent-cartoon-drawing-animation-animation-hand-cartoon-fictional-character.png",
+    cover:
+      "https://w7.pngwing.com/pngs/366/145/png-transparent-cartoon-drawing-animation-animation-hand-cartoon-fictional-character.png",
     title: "Other portfolio I've Designed.",
     desc: "Created strong design concepts and developed design layouts for a variety of creative projects using Photoshop and Illustrator, you can see more at my portfolio.",
     p1: "Design is not just what it looks like and feels like.",
@@ -114,7 +118,8 @@ export const portfolio = [
   },
   {
     id: 2,
-    cover: "https://w7.pngwing.com/pngs/366/145/png-transparent-cartoon-drawing-animation-animation-hand-cartoon-fictional-character.png",
+    cover:
+      "https://w7.pngwing.com/pngs/366/145/png-transparent-cartoon-drawing-animation-animation-hand-cartoon-fictional-character.png",
     title: "Spinnerei Wannweil",
     desc: "Lorem Ipsum has been the industry standard dummy text since the when an unknown printer took a galley of type and scrambled it  make a type specimen book. It has survived  only five centuries .",
     p1: "Display as many or as little images as you wish using.",
@@ -125,7 +130,8 @@ export const portfolio = [
   },
   {
     id: 3,
-    cover: "https://w7.pngwing.com/pngs/366/145/png-transparent-cartoon-drawing-animation-animation-hand-cartoon-fictional-character.png",
+    cover:
+      "https://w7.pngwing.com/pngs/366/145/png-transparent-cartoon-drawing-animation-animation-hand-cartoon-fictional-character.png",
     title: "Shift Management",
     desc: "Lorem Ipsum has been the industry standard dummy text since the when an unknown printer took a galley of type and scrambled it  make a type specimen book. It has survived  only five centuries, but also the leap electronic typesetting, remaining essentially unchanged.",
     p1: "Display as many or as little images as you wish using.",
@@ -136,7 +142,8 @@ export const portfolio = [
   },
   {
     id: 4,
-    cover: "https://w7.pngwing.com/pngs/366/145/png-transparent-cartoon-drawing-animation-animation-hand-cartoon-fictional-character.png",
+    cover:
+      "https://w7.pngwing.com/pngs/366/145/png-transparent-cartoon-drawing-animation-animation-hand-cartoon-fictional-character.png",
     title: "Mahl Cafe",
     desc: "Lorem Ipsum has been the industry standard dummy text since the when an unknown printer took a galley of type and scrambled it  make a type specimen book. It has survived  only five centuries, but also the leap electronic typesetting, remaining essentially unchanged.",
     p1: "Display as many or as little images as you wish using.",
@@ -145,18 +152,19 @@ export const portfolio = [
     p4: "Good design doesn't date. Bad design does.",
     p5: "Design is not just what it looks like and feels like.",
   },
-]
+];
 export const award = [
   {
     title: "I'm not aiming for an Award.",
     desc: "Whenever you want to achieve something, keep your eyes open, concentrate and make sure you know exactly what it is you want. No one can hit their target with their eyes closed. To accomplish great things we must not only act, but also dream, not only plan, but also believe.",
-    cover: "./images/award-bg.jpg",
-    img1: "./images/award-logo-1.png",
-    img2: "./images/award-logo-2.png",
-    img3: "./images/award-logo-3.png",
-    img4: "./images/award-logo-4.png",
+    cover:
+      "https://w7.pngwing.com/pngs/366/145/png-transparent-cartoon-drawing-animation-animation-hand-cartoon-fictional-character.png",
+    img1: "https://logo-logos.com/2016/10/Envato_logo.png",
+    img2: "https://logo-logos.com/2016/10/Envato_logo.png",
+    img3: "https://logo-logos.com/2016/10/Envato_logo.png",
+    img4: "https://logo-logos.com/2016/10/Envato_logo.png",
   },
-]
+];
 export const blog = [
   {
     cover: "./images/blog-1.jpg",
@@ -176,4 +184,4 @@ export const blog = [
   {
     cover: "./images/blog-6.jpg",
   },
-]
+];
