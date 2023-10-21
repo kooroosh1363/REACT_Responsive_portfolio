@@ -28,20 +28,29 @@ const Contact = () => {
                         <br/>
 
                         <span>
-                            <BsEnvelopeAt></BsEnvelopeAt>
+                            <BsEnvelopeAt className="icon_contact"></BsEnvelopeAt>
                             Lorem ipsum@dolorsitamet.
                         </span>
                         <br/>
                         <br/>
 
                         <span>
-                            <BsTelephoneInboundFill></BsTelephoneInboundFill>
+                            <BsTelephoneInboundFill className="icon_contact"></BsTelephoneInboundFill>
                             +000000000000000
                         </span>
                         
 
                         <form>
-                            
+                            <input type="text"  placeholder='Name...' id=''/>
+                            <input type="text"  placeholder='Email...' id=''/>
+                            <input type="text"  placeholder='interested...' id=''/>
+
+                            <textarea  cols="30" rows="10">
+                                Message : 
+                            </textarea>
+                            <button className='btn_init'>
+                                Submit
+                            </button>
                         </form>
                     </div>
                 </div>
