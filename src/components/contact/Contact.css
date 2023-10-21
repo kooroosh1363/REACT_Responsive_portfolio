@@ -1,33 +1,33 @@
 .contact .content .icon_contact{
-    width: 40px;
-    font-size: 20px;
+    width: 2.5rem;
+    font-size: 1.25rem;
     color: hsla(147, 73%, 43%, 1);
 }
 
 .contact .leftContent{
-    padding: 30px;
+    padding: 1.875rem;
 }
 
 
 form{
-    margin-top: 3px;
+    margin-top: 0.188rem;
     
 }
 
 form textarea,
 form input{
     width: 140%;
-    padding: 15px;
+    padding:  0.938rem;
     background: none;
     outline: none;
-    background: #2b2b2b;
+    background: hsla(0, 0%, 17%, 1);
     border:none;
-    margin-bottom: 15px;
+    margin-bottom:  0.938rem;
 }
 
 
 form textarea{
     margin: 0;
-    color: #737171;
+    color: hsla(0, 1%, 45%, 1);
     font-family: 'Merriweather', serif;
 }
